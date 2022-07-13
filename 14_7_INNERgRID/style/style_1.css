@@ -1,0 +1,69 @@
+.paraent_1{
+    background-color: darkgrey;
+    padding: 1em;
+    display: grid;
+    grid-template-columns: 50% 50% ;
+}
+
+.parent_2
+{
+    background-color: antiquewhite;
+    padding: 1em;
+    display: grid;
+    grid-template-columns: 50% 50% ;
+}
+
+
+.child_1{
+    background-color: aquamarine;
+    color: azure;
+    margin: 2%;
+    padding: 2%;
+    border: 3px solid;
+    border-color: black;
+    display: grid;
+    grid-template-columns: 50% 50%
+}
+.child_1A{
+    background-color: aquamarine;
+    color: azure;
+    margin: 2%;
+    padding: 2%;
+    border: 3px solid;
+    border-color: black;
+
+}
+.child_1B{
+    background-color: aquamarine;
+    color: azure;
+    margin: 2%;
+    padding: 2%;
+    border: 3px solid;
+    border-color: black;
+
+}
+.child_2{
+    background-color: chartreuse;
+    margin: 2%;
+    padding: 2%;
+    border: 3px solid;
+    border-color: black;
+}
+.child_3{
+    background-color: cornflowerblue;
+    margin: 2%;
+    padding:2% ;
+    border:3px solid ;
+    border-color: black;
+}
+.child_4{
+    background-color: rgb(153, 11, 204);
+   margin: 2%;
+   padding:2% ;
+   border:3px solid ;
+   border-color: black;
+
+
+}
+
+
