@@ -1,0 +1,52 @@
+.parant{
+    background-color: rgb(0, 183, 255);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    border-top: 10px solid;
+    border-bottom:10px solid ;
+    border-left: 10px solid;
+    border-right: 10px solid;
+    color: blue;
+    font-size: 26px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.child_1{
+    background-color: rgb(12, 206, 12);
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    font-size: 15px;
+    color: rgb(243, 233, 51);
+    
+}
+.child_1A{
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 70px;
+    margin-bottom: 20px;
+    color: aliceblue;
+
+}
+.child_2{
+    background-color: red;
+    margin-top: 30px;
+}
+.child_2B{
+   background-color: blue;
+   color: aliceblue;
+   margin-left: 30px;
+   margin-right: 50px;
+   
+}
