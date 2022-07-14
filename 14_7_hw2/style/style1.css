@@ -1,33 +1,92 @@
-undo_1{
-    background-color: rgb(172, 29, 122);
+.undo_1{
+    background-color: rgb(255, 229, 246);
     margin-top: 50px;
     margin-bottom:50px;
     margin-left: 50px;
     margin-right: 50px;
-    color:red;
     
     padding-top: 20px;
     padding-bottom: 20px;
     padding-left: 20px;
     padding-right: 20px;
 
-    border-top: 10px solid;
-    border-bottom:10px solid ;
-    border-left: 10px solid;
-    border-right: 10px solid;
+    border-top: 2px solid;
+    border-bottom:2px solid ;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    border-color:blue;
 
 }
 .undo_1A{
-  background-color: rgb(208, 164, 106);
-
-  margin-top: 50px;
+  background-color: rgb(255, 229, 246);
+  color: blue;
+  font-weight: bold;
+  
   margin-bottom:50px;
-  margin-left: 50px;
-  margin-right: 50px;
-  border-top: 10px solid;
-  border-bottom:10px solid ;
-  border-left: 10px solid;
-  border-right: 10px solid;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-top: 1px solid;
+  border-bottom:1px solid ;
+  border-left: 1px solid;
+  border-right: 1px solid;
+  border-color: black;
+
+}
+
+.text{
+  background-color:rgb(255, 229, 246);
+  color:red;
+  font-weight: bold;
+  margin-top: 50px;
+  margin-bottom:10px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.undo_1B{
+  background-color: rgb(255, 229, 246);
+  color: blue;
+  font-weight: bold;
+  
+  margin-bottom:50px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-top: 1px solid;
+  border-bottom:1px solid ;
+  border-left: 1px solid;
+  border-right: 1px solid;
+  border-color: black;
+
+
+}
+.undo_1C{
+  background-color: rgb(255, 229, 246);
+  color: blue;
+  font-weight: bold;
+  
+  margin-bottom:50px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-top: 1px solid;
+  border-bottom:1px solid ;
+  border-left: 1px solid;
+  border-right: 1px solid;
+  border-color: black;
+
+
+}
+.undo_1D{
+  background-color: rgb(12, 181, 80);
+  color: rgb(211, 211, 238);
+  font-weight: bold;
+  
+  margin-bottom:50px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-top: 1px solid;
+  border-bottom:1px solid ;
+  border-left: 1px solid;
+  border-right: 1px solid;
+  border-color: black;
 
 
 }

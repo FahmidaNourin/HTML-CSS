@@ -1,0 +1,30 @@
+.main{
+    background-color: aliceblue;
+    padding: 1cm;
+    display: grid;
+    grid-template-columns: 20% 80% ;
+}
+
+
+
+
+.section_left{
+    background-color: aliceblue;
+    
+    color: black;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+
+}
+.section_right{
+    background-color: aliceblue;
+
+    color: black;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+
+}
